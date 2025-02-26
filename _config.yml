@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "myphoto.png"
   name             : "Xiaomeng Chen (陈霄萌)"
-  pronouns         : "she"# example: "she/her"  
-  bio              : "A physically and mentally healthy practitioner of long termism"
+  pronouns         :# "she"# example: "she/her"  
+  bio              :# "A physically and mentally healthy practitioner of long termism"
   location         : "Shenzhen, China"
   employer         : 
   uri              : 
