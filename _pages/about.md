@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Shaohua Wu](https://faculty.hitsz.ed
 
 You can find my CV here: [Xiaomeng Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) or [Personal Email](mailto:cxmeng2000@163.com) / [Github](https://github.com/ciao-meng) / [Wechat](../images/wechat.jpg)
+[Email](mailto:23s052026@stu.hit.edu.cn) or [Personal Email](mailto:cxmeng2000@163.com) / [Github](https://github.com/ciao-meng) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======
