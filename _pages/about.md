@@ -37,8 +37,8 @@ Research Interest
 
 First-author Papers
 ======
-1. [<font color="#245bdb">ISIT</font>] **Xiaomeng Chen**, Aimin Li and Shaohua Wu, "Tight Upper Bounds on the Error Probability of Spinal Codes over Fading Channels," **IEEE International Symposium on Information Theory (ISIT)**, Aug, 2023, pp. 1277-1282. [(PDF)](files/Tight_Upper_Bounds_on_the_Error_Probability_of_Spinal_Codes_over_Fading_Channels.pdf) [(Slides)](files/ISIT2023PPT.pdf)
-2. [<font color="#245bdb">ITW</font>] **X. Chen**, Aimin Li and Shaohua Wu, "Optimal Sampling for Uncertainty-of-Information Minimization in a Remote Monitoring System," **IEEE Information Theory Workshop (ITW)**, 2024, pp. 115-120. [(PDF)](files/Optimal_Sampling_for_Uncertainty-of-Information_Minimization_in_a_Remote_Monitoring_System.pdf) [(Slides)](files/ITW2024PPT.pdf)
+1. [<font color="#245bdb">ISIT</font>] **Xiaomeng Chen**, Aimin Li and Shaohua Wu, "Tight Upper Bounds on the Error Probability of Spinal Codes over Fading Channels," **IEEE International Symposium on Information Theory (ISIT)**, Aug, 2023, pp. 1277-1282. [(PDF)](../files/Tight_Upper_Bounds_on_the_Error_Probability_of_Spinal_Codes_over_Fading_Channels.pdf) [(Slides)](../files/ISIT2023PPT.pdf)
+2. [<font color="#245bdb">ITW</font>] **X. Chen**, Aimin Li and Shaohua Wu, "Optimal Sampling for Uncertainty-of-Information Minimization in a Remote Monitoring System," **IEEE Information Theory Workshop (ITW)**, 2024, pp. 115-120. [(PDF)](../files/Optimal_Sampling_for_Uncertainty-of-Information_Minimization_in_a_Remote_Monitoring_System.pdf) [(Slides)](../files/ITW2024PPT.pdf)
 
 First-author Preprint
 ======
@@ -47,8 +47,8 @@ First-author Preprint
   
 Collaborative Papers
 ======
-1. [<font color="#245bdb">TCOM</font>] Aimin Li, Shaohua Wu, **Xiaomeng Chen**, and Sumei Sun. "Tight Upper Bounds on the BLER of Spinal codes over the AWGN Channel", **IEEE Transactions on Communications**, 2024. [(PDF)](files/Tight_Upper_Bounds_on_the_BLER_of_Spinal_Codes_Over_the_AWGN_Channel.pdf)
-2. Aimin Li, Shaohua Wu, Gary C.F. Lee,  **Xiaomeng Chen**, and Sumei Sun. "Sampling to Achieve the Goal: An Age-aware Remote Markov Decision Process", **IEEE Information Theory Workshop**, 2024. [(PDF)](https://arxiv.org/pdf/2405.02042v3)
+1. [<font color="#245bdb">TCOM</font>] Aimin Li, Shaohua Wu, **Xiaomeng Chen**, and Sumei Sun. "Tight Upper Bounds on the BLER of Spinal codes over the AWGN Channel", **IEEE Transactions on Communications**, 2024. [(PDF)](../files/Tight_Upper_Bounds_on_the_BLER_of_Spinal_Codes_Over_the_AWGN_Channel.pdf)
+2. [<font color="#245bdb">ITW</font>] Aimin Li, Shaohua Wu, Gary C.F. Lee,  **Xiaomeng Chen**, and Sumei Sun. "Sampling to Achieve the Goal: An Age-aware Remote Markov Decision Process", **IEEE Information Theory Workshop**, 2024. [(PDF)](https://arxiv.org/pdf/2405.02042v3)
 3. [<font color="#245bdb">TVT</font>] Aimin Li, Shaohua Wu, Xiaomeng Chen, and Sumei Sun. "Error Floor of Spinal Codes under ML Decoding", submitted to **IEEE Transactions on Vehicular Technology**.
   
 Project
