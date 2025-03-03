@@ -6,13 +6,13 @@
 
 main:
   - title: "Awards"
-    url: /publications/  
+    url: /award/  
     
   - title: "CV"
     url: /assets/Curriculum_Vitae.pdf
 
   - title: "Skills & Leadership"
-    url: /talks/    
+    url: /skills/    
 
   - title: "Teaching"
     url: /teaching/  
