@@ -13,7 +13,7 @@ title                    : "Xiaomeng Chen"
 title_separator          : "-"
 name                     : &name "Xiaomeng Chen"
 description              : &description "a second year student from Harbin Institute of Technology, Shenzhen"
-url                      : "https://github.com/ciao-meng"
+url                      : https://github.com/ciao-meng
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ciao-meng/ciao-meng.github.io"
 
