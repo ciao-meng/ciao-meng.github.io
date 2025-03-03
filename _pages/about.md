@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student from [School of Electronic and Information Engineering](http://eie.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). My research interest includes advanced channel coding techniques, wireless communications and information theory.
-
-I am very fortunate to be advised by [Prof. Shaohua Wu](https://faculty.hitsz.edu.cn/wushaohua) from [School of EIE](http://eie.hitsz.edu.cn/), Harbin Institute of Technology, Shenzhen. 
+Welcome to Xiaomeng Chen’s website! I am currently a second year graduate student from [School of Electronic and Information Engineering](http://eie.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). In HITSZ, my research is supervised by [Prof. Shaohua Wu](https://faculty.hitsz.edu.cn/wushaohua) from [School of EIE](http://eie.hitsz.edu.cn/), Harbin Institute of Technology, Shenzhen. My research interest includes advanced channel coding techniques, wireless communications and information theory. 
 
 You can find my CV here: [Xiaomeng Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:23s052026@stu.hit.edu.cn) or [Personal Email](mailto:cxmeng2000@163.com) / [Github](https://github.com/ciao-meng) / [Wechat](../images/wechat.jpg)
-
-A data-driven personal website
+Contact me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+[Email](mailto:23s052026@stu.hit.edu.cn) or [Personal Email](mailto:cxmeng2000@163.com) / [Github](https://github.com/ciao-meng) / [Wechat](../images/wechat.jpg)
 
 Getting started
 ======
