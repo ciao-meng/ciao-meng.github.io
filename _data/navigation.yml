@@ -6,7 +6,7 @@
 
 main:
   - title: "Awards"
-    url: /award/  
+    url: /Awards/  
     
   - title: "CV"
     url: /assets/Curriculum_Vitae.pdf
