@@ -21,7 +21,7 @@ Education
 * 2019.08-2023.06
   * B.Sc in Electronic and Information Engineering (Highest Honor, Top 2%)
   * [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/)
-  * (**Awarded Best Thesi**: Performance Analysis and Coding Optimization of Spinal Codes)
+  * (**Awarded Best Thesis**: Performance Analysis and Coding Optimization of Spinal Codes)
   * Supervisor: [Prof. Shaohua Wu](https://faculty.hitsz.edu.cn/wushaohua)
 
 * 2023.08-2026.03
