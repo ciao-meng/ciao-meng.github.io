@@ -15,4 +15,4 @@ author_profile: true
  ====
  *Undergraduate Cource*, Fall 2022 & Spring 2022
  
- **Teaching Assistant**, with [Yuanqing Li](http://ecei.hitsz.edu.cn/info/1048/1077.htm), [Fei gao](http://ecei.hitsz.edu.cn/info/1048/1733.htm), and [Qianqian Zhang](http://ecei.hitsz.edu.cn/info/1048/1612.htm), at Education Center of Experiments and Innovations (HITSZ), and gained **Outstanding Teaching Assistant Award**.
+ **Teaching Assistant**, with [Yuanqing Li](http://ecei.hitsz.edu.cn/info/1048/1077.htm), [Fei gao](http://ecei.hitsz.edu.cn/info/1048/1733.htm), and [Qianqian Zhang](http://ecei.hitsz.edu.cn/info/1048/1612.htm), at [Education Center of Experiments and Innovations (HITSZ)](http://ecei.hitsz.edu.cn/index.htm), and gained **Outstanding Teaching Assistant Award**.
