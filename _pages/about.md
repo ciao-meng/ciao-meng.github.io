@@ -53,7 +53,7 @@ Collaborative Papers
   
 Project
 ======
-* Information Theory and Coding [(Code)](https://github.com/AiminLi-Hi/Age-Aware-Remote-MDP)
+* Information Theory and Coding [(Code)](https://github.com/ciao-meng/information_theory_coding)
   * Source coding based on Shannon coding, Huffman coding and LZW coding.
   * Channel coding based on Hamming code and convolution code.
   * Gained BER of concatenated codes after transmission through AWGN channel.
