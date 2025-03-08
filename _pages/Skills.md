@@ -7,8 +7,8 @@ author_profile: true
 
 Skills
 ======
- 1. **Programming**: C, Python
- 2. **Software**: Matlab, Pycharm, Code Composer Studio
+ 1. **Programming**: Matlab, C, Python
+ 2. **Software**: Pycharm, Code Composer Studio
  3. **English**: IELTS (Academic) 6.5 (overall score)
  4. **AI**: ChatGPT, Deepseek, Claude, Cursor
 
