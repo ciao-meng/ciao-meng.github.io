@@ -43,7 +43,7 @@ First-author Papers
 First-author Preprint
 ======
 1. [<font color="#245bdb">TWC</font>] **Aimin Li, Xiaomeng Chen (Co-first)**, Shaohua Wu, Gary C.F. Lee, and Sumei Sun, "A Unified Expression for Upper Bounds on the BLER of Spinal Codes over Fading Channels", submitted to **IEEE Transactions on Wireless Communications**, 2023. [(PDF)](https://arxiv.org/pdf/2407.03741)
-2. [<font color="#245bdb">TON</font>] **Xiaomeng Chen**, Shaohua Wu, Aimin Li, Dawei Chen, Pengfei Duan, and Qinyu Zhang, “Minimizing the Uncertainty-of-Information in a Remote Networked Monitoring System,” submitted to **IEEE/ACM Transactions on Networking**, 2024.
+2. [<font color="#245bdb">In-Progress</font>] **Xiaomeng Chen**, Shaohua Wu, Aimin Li, Dawei Chen, Pengfei Duan, and Qinyu Zhang, “Minimizing the Uncertainty-of-Information in a Remote Networked Monitoring System”.
   
 Collaborative Papers
 ======
